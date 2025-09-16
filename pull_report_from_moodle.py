@@ -1,6 +1,8 @@
 import pandas as pd
 import requests
 
+#-----------------------------------------------------------------------------------------------------#
+#How to use this script in Power BI: https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-scripts
 #THIS REPORT PULLS DATA FROM MOODLE VIA API AND COMBINES IT INTO A SINGLE DATAFRAME
 #IT CHANGES TENANT FOR EACH ITERATION AND PULLS THE SAME REPORT FOR EACH TENANT
 

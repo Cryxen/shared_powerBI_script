@@ -10,7 +10,7 @@ REPORT_ID = '12345' # ID FOR THE REPORT TO PULL FROM MOODLE. THIS CAN BE FOUND I
 BASEURL = "https://yourmoodlesite.no" # BASE URL FOR YOUR MOODLE SITE. CHANGE TO YOUR MOODLE SITE.
 API_TOKEN = "your_api_token" # API TOKEN FOR MOODLE. CHANGE TO YOUR API TOKEN.
 USERID = '123456' # USER ID FOR THE USER TO CHANGE TENANTS FOR. CHANGE TO YOUR USER ID IF YOU HAVE MULTIPLE TENANTS.
-change_tenants = False # SET TO TRUE IF YOU WANT TO CHANGE TENANTS. OTHERWISE, SET TO FALSE.
+change_tenants = False # SET TO True IF YOU WANT TO CHANGE TENANTS. OTHERWISE, SET TO False.
 #-----------------------------------------------------------------------------------------------------#
 #                       DO NOT CHANGE ANYTHING BELOW THIS LINE                                        #
 #-----------------------------------------------------------------------------------------------------#
